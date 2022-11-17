@@ -1,0 +1,98 @@
+* {
+    font-family: 'Oswald', sans-serif;
+}
+
+.logo img {
+    max-width: 200px;
+    width: 200px;
+}
+
+.principal {
+    height: 100vh;
+}
+
+.navbar a,
+.navbar a:focus {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 0 10px 30px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #1e3b88;
+    white-space: nowrap;
+    transition: 0.3s;
+    text-decoration: none;
+}
+
+.footer {
+    background: #f6f9ff;
+    padding: 0 0 30px 0;
+    font-size: 14px;
+}
+
+.footer .footer-top {
+    background-size: contain;
+    border-top: 1px solid #e1ecff;
+    border-bottom: 1px solid #e1ecff;
+    padding: 60px 0 30px 0;
+}
+
+@media (max-width: 992px) {
+    .footer .footer-top {
+        background-position: center bottom;
+    }
+}
+
+h1 {
+    color: #1f3778;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #1e3b88;
+}
+
+.img-principal img {
+    max-width: 600px;
+    text-align: center;
+    display: block;
+    margin: auto;
+    border-radius: 25px;
+}
+
+.título a {
+    max-width: 5px;
+    width: 2px;
+    display: block;
+    text-decoration: none;
+}
+
+.título a {
+    max-width: 5px;
+    width: 2px;
+    display: block;
+    text-decoration: none;
+}
+.título a span {
+    margin-left: 5px;
+}
+
+.título {
+    max-width: 350px;
+    width: 30%;
+    display: inline;
+}
+
+.img-título {
+    width: 200px;
+    border-radius: 25px;
+    margin-bottom: 10px;
+}
+
+header.header {
+    background-color: white;
+}
