@@ -1,3 +1,4 @@
-# Livos com amor! (página em construção)
+# Livos com amor! 
+##### Observação: Página em construção;
 
-* https://edsonbocalon.github.io/praticaformacaocontinuada/
+https://edsonbocalon.github.io/praticaformacaocontinuada/
